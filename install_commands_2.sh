@@ -1,4 +1,3 @@
-conda activate bot
 cd /content/AICUP_Baseline_BoT-SORT
 pip install numpy
 pip install -r requirements.txt
